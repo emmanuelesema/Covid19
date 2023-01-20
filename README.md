@@ -1,6 +1,6 @@
 # Covid19
 
-This project was inspired by the outbreak of the corona virus in 2020 which forced people to isolate in their homes and reduce all forms of physical
+This is one of my most challenging projects which is inspired by the outbreak of the corona virus in 2020 which forced people to isolate in their homes and reduce all forms of physical
 contact with others outside your household. 
 
 Thus the goal of the project was to create a prototype of what will occur in Norway if certain factors were altered and visualize the effects using graphs!
